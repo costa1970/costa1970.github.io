@@ -1,0 +1,36 @@
+.container {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  .create {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .create button {
+    width: 100%;
+    margin: 1rem auto ;
+    color: rgb(90, 168, 236);
+  }
+
+  .create h1 {
+    text-align: center;
+    font-size: 2rem;
+  }
+
+  #edit {
+    color: rgb(212, 231, 42);
+    margin-right: 1rem;
+  }
+
+  #delete {
+    color: rgb(240, 87, 118);
+    
+  }

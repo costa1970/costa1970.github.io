@@ -1,0 +1,13 @@
+.header {
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+h1 {
+    border: 3px solid rgb(233, 76, 76);
+    padding: .4rem 15%;
+    border-radius: 15px;
+    font-size: 2rem;
+}
